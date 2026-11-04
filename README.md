@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey! I`m developer who enjoys making some stuff (programs/games)<br>💡 Always interested in learning new things<br>🛠️ Working with C/C++, C#, Python<br>⚙️ Working with Unity<br>🗂️ Sharing my experience and projects<br>📌 Code is art! Change the world - start with code.
+🛠️ Working with C/C++, C#, Python<br>⚙️ Working with Unity<br><!--🗂️ Sharing my experience and projects<br>📌 Code is art! Change the world - start with code.-->
 
 
 ## 🌐 Socials:
